@@ -28,21 +28,31 @@ optimize and capitalize on what I and whoever else have and will learn.
 - [ ] **Coin Flip Simulator** - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.
 
 ## TEXT
+- [ ] 
 
 ## ALGORITHMS
+- [ ] 
 
 ## DATA STRUCTURES
+- [ ] 
 
 ## CLASSES
+- [ ] 
 
 ## NETWORKING
+- [ ] 
 
 ## FILES
+- [ ] 
 
 ## DATABASES
+- [ ] 
 
 ## WEB
+- [ ] 
 
 ## GRAPHICS AND MULTIMEDIA
+- [ ] 
 
 ## GAMES
+- [ ] 
