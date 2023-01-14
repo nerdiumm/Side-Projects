@@ -1,5 +1,8 @@
 # User enter a number. Generate PI up to that many decimal places.
 # REMEMBER THE LIMITS OF HOW FAR THE PROGRAM CAN GO!
+# 
+# Started: 13 January 2023
+# Completed: 14 January 2023
 
 import math
 
