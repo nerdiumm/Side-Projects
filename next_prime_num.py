@@ -5,6 +5,7 @@
 
 import math
 
+# Function to check whether the user wants the next prime number
 def check_user(num_check):
     if(num_check == 0):
         user_inp = input("Would you like to see a prime number?(Y/N) ")
@@ -16,6 +17,7 @@ def check_user(num_check):
     elif user_inp.capitalize() == 'N':
         print("Goodbye!")
 
+# Function to print the next prime number
 def nextPrime(num):
     if (isPrime(num)):
         print(num)
@@ -24,6 +26,7 @@ def nextPrime(num):
         nextPrime(num+1)
     pass
 
+# Function to check whether the current number is a prime number
 def isPrime(num):
     if num <= 1:
         return False
