@@ -2,7 +2,7 @@
 # a floor plan of x width and y height, using a cost entered by the user.
 # 
 # Started: 15 January 2023
-# Completed: XX January 2023
+# Completed: 15 January 2023
 
 user_inp = input("How much do the tiles cost? ")
 tile_price = float(user_inp)

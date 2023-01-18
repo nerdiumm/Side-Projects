@@ -14,7 +14,7 @@ optimize and capitalize on what I and whoever else have and will learn.
 - [X] **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 - [X] **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
 - [X] **Find Cost of the Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
-- [ ] **Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval (Monthly, Weekly, Daily, Continually).
+- [X] **Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval (Monthly, Weekly, Daily, Continually).
 - [ ] **Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 - [ ] **Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 - [ ] **Simple Calculator** - A simple calculator to do basic operators.
