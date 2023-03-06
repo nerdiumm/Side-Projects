@@ -1,7 +1,7 @@
 # Program a simple calculator to do basic operators.
 # 
 # Started: 09 February 2023
-# Completed: XX March 2023
+# Completed: 3 March 2023
 
 def add(num1, num2):
     return num1 + num2
