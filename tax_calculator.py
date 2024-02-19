@@ -8,7 +8,7 @@
 # https://take-profit.org/en/statistics/sales-tax-rate/#continents
 # 
 # Started: 25 April 2023
-# Completed: XX April 2023
+# Completed: XX February 2024
 
 
 # Function to check if the arg country is a valid country in dictionary
